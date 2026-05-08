@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Janhavi Lakhera Resume</title>
+
+<style>
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #e6e6e6;
+
+
+    margin: 0;
+}
+
+/* Main Card */
+.container {
+
+    max-width: 800px;
+    margin: 30px auto;
+
+    background: #f5f5f5;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+/* Header */
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    color: #4a5bdc;
+    margin-bottom: 5px;
+}
+
+.header p {
+    color: #777;
+}
+
+/* Contact */
+.contact {
+    text-align: center;
+    font-size: 14px;
+    margin: 10px 0;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid #ff4d94;
+    margin: 15px 0;
+}
+
+/* Buttons */
+.buttons {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.buttons a {
+
+    text-decoration: none;
+    background: #2d6cdf;
+    color: white;
+
+    padding: 8px 15px;
+    border-radius: 20px;
+    margin: 5px;
+    display: inline-block;
+    font-size: 14px;
+}
+
+/* Section */
+.section {
+    margin: 20px 0;
+}
+
+.section h2 {
+    color: #2d6cdf;
+    border-left: 4px solid #ff4d94;
+    padding-left: 10px;
+}
+
+/* Skills */
+.skills span {
+    background: #2d6cdf;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 20px;
+    margin: 5px;
+    display: inline-block;
+    font-size: 13px;
+}
+
+/* Projects Box */
+.project {
+    background: #eee;
+    padding: 10px;
+    border-left: 4px solid green;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.project b {
+
+    color: green;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <h1>Janhavi Lakhera</h1>
+        <p>First Year B.Tech Student</p>
+    </div>
+
+    <div class="contact">
+        janhavi@email.com | +91-9876543210 | SB Jain Institute
+    </div>
+
+    <hr>
+
+    <div class="buttons">
+        <a href="#">LinkedIn</a>
+        <a href="#">GitHub</a>
+    </div>
+
+    <div class="section">
+        <h2>Objective</h2>
+        <p>
+           Motivated and hardworking fresher with a keen interest in software development and web technologies. Quick learner with strong problem-solving abilities, seeking an opportunity to grow and gain industry experience.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <p><b>SB Jain Institute of Technology and Management</b></p>
+        <p>B.Tech (CSE) | First Year | 2025 - Present</p>
+    </div>
+
+    <div class="section">
+        <h2>Technical Skills</h2>
+
+        <div class="skills">
+
+
+            <span>C</span>
+            <span>C++</span>
+
+            <span>Java</span>
+            <span>HTML</span>
+            <span>CSS</span>
+            <span>Problem Solving</span>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Projects</h2>
+
+        <div class="project">
+            <b>Student Record Management System (C)</b>
+            <p>Console-based app to manage student records using file handling.</p>
+        </div>
+
+        <div class="project">
+            <b>Simple Calculator (C++)</b>
+            <p>OOP-based calculator with basic operations.</p>
+        </div>
+
+        <div class="project">
+            <b>Portfolio Website (HTML/CSS)</b>
+            <p>Responsive personal website with modern design.</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Looking For</h2>
+        <p>
+            Software development internships to gain real-world experience and improve skills.
+        </p>
+    </div>
+
+</div>
+
+</body>
+
+</html>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
